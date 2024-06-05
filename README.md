@@ -30,9 +30,15 @@ The GRA system employs a multi-stage approach to achieve its objectives:
 Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request. Make sure to follow the project's coding standards and guidelines.
 
 ## Acknowledgments
-- [librosa](https://librosa.org/): A Python library for audio and music analysis.
-- [scikit-learn](https://scikit-learn.org/): A machine learning library for Python.
-- [PyTorch](https://pytorch.org/): An open-source machine learning framework.
-- And all the open-source libraries, datasets, and resources used in this project.
+## Acknowledgments
+- [NumPy](https://numpy.org/): A fundamental package for scientific computing in Python, providing support for large, multi-dimensional arrays and matrices.
+- [Pandas](https://pandas.pydata.org/): A powerful data analysis and manipulation library for Python, offering data structures and data analysis tools.
+- [Matplotlib](https://matplotlib.org/): A comprehensive library for creating static, animated, and interactive visualizations in Python.
+- [Seaborn](https://seaborn.pydata.org/): A data visualization library based on Matplotlib, providing a high-level interface for drawing attractive and informative statistical graphics.
+- [Librosa](https://librosa.org/): A Python library for audio and music analysis, providing building blocks to create music information retrieval systems.
+- [TensorFlow](https://www.tensorflow.org/): A comprehensive end-to-end open-source platform for building and deploying machine learning models, including deep learning models.
+- [Time](https://docs.python.org/3/library/time.html): A built-in Python module for working with time-related functions and operations.
+- [os](https://docs.python.org/3/library/os.html): A built-in Python module providing a way to interact with the operating system, including file and directory operations.
+- [pickle](https://docs.python.org/3/library/pickle.html): A built-in Python module for serializing and deserializing Python objects, allowing them to be saved to and loaded from files or other storage mediums.
 ## Results
 [code.pdf](https://github.com/user-attachments/files/15580147/code.pdf)
